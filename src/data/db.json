@@ -1,0 +1,664 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "nomUser": "Esteban",
+      "cel": 3195919929,
+      "pass": "Esteban1234",
+      "url": "https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZmlsJTIwZGUlMjBob21icmV8ZW58MHx8MHx8&w=1000&q=80",
+      "status": false,
+      "description": "Gym y bien calmado",
+      "dateConection": "2/8/2023"
+    },
+    {
+      "id": 1,
+      "nomUser": "Andrea lopez",
+      "cel": 3122902877,
+      "pass": "1234",
+      "url": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2020/03/estas_son_las_caracteristicas_que_vuelven_a_una_mujer_irresistible_segun_ellos.jpg",
+      "status": false,
+      "description": "Estoy ocupada ",
+      "dateConection": "2/8/2023"
+    },
+    {
+      "nomUser": "Patricia",
+      "cel": "3145676372",
+      "pass": "1234",
+      "url": "https://www.clarin.com/img/2015/03/20/HkwKuZR7x_1256x620.jpg",
+      "status": false,
+      "description": "Hey there I'm using WhatsApp",
+      "dateConection": "7/2/2023",
+      "id": 2
+    },
+    {
+      "nomUser": "Camilo",
+      "cel": "3124903827",
+      "pass": "1234",
+      "url": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
+      "status": false,
+      "description": "Hey there I'm using WhatsApp",
+      "dateConection": "7/2/2023",
+      "id": 3
+    }
+  ],
+  "contacts": [
+    {
+      "id": 0,
+      "codeUser": 0,
+      "nomContact": "Camilo",
+      "imgContact": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
+      "cel": "3124903827",
+      "status": true
+    },
+    {
+      "id": 1,
+      "codeUser": 0,
+      "nomContact": "Pedro",
+      "imgContact": "",
+      "cel": "3196382445",
+      "status": true
+    },
+    {
+      "codeUser": 0,
+      "nomContact": "Andrea",
+      "imgContact": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2020/03/estas_son_las_caracteristicas_que_vuelven_a_una_mujer_irresistible_segun_ellos.jpg",
+      "cel": "3122902877",
+      "id": 2,
+      "status": true
+    },
+    {
+      "codeUser": 1,
+      "nomContact": "Patricia",
+      "imgContact": "https://www.clarin.com/img/2015/03/20/HkwKuZR7x_1256x620.jpg",
+      "cel": "3145676372",
+      "id": 3,
+      "status": true
+    },
+    {
+      "codeUser": 1,
+      "nomContact": "Esteban ",
+      "imgContact": "https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZmlsJTIwZGUlMjBob21icmV8ZW58MHx8MHx8&w=1000&q=80",
+      "cel": "3195919929",
+      "id": 4
+    },
+    {
+      "codeUser": 1,
+      "nomContact": "Santiago",
+      "imgContact": "",
+      "cel": "3482330392",
+      "id": 5
+    },
+    {
+      "codeUser": 1,
+      "nomContact": "Angela",
+      "imgContact": "",
+      "cel": "3145625372",
+      "id": 6
+    },
+    {
+      "codeUser": 1,
+      "nomContact": "Laura",
+      "imgContact": "",
+      "cel": "3189389242",
+      "id": 7
+    },
+    {
+      "codeUser": 1,
+      "nomContact": "Hector",
+      "imgContact": "",
+      "cel": "3192839234",
+      "id": 8
+    },
+    {
+      "codeUser": 2,
+      "nomContact": "Andrea",
+      "imgContact": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2020/03/estas_son_las_caracteristicas_que_vuelven_a_una_mujer_irresistible_segun_ellos.jpg",
+      "cel": "3122902877",
+      "id": 9
+    },
+    {
+      "codeUser": 0,
+      "nomContact": "Patricia",
+      "imgContact": "https://www.clarin.com/img/2015/03/20/HkwKuZR7x_1256x620.jpg",
+      "cel": "3145676372",
+      "id": 10
+    },
+    {
+      "codeUser": 2,
+      "nomContact": "Esteban ",
+      "imgContact": "https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZmlsJTIwZGUlMjBob21icmV8ZW58MHx8MHx8&w=1000&q=80",
+      "cel": "3195919929",
+      "id": 11
+    },
+    {
+      "codeUser": 3,
+      "nomContact": "Esteban ",
+      "imgContact": "https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZmlsJTIwZGUlMjBob21icmV8ZW58MHx8MHx8&w=1000&q=80",
+      "cel": "3195919929",
+      "id": 12
+    },
+    {
+      "codeUser": 1,
+      "nomContact": "Camilo",
+      "imgContact": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
+      "cel": "3124903827",
+      "id": 13
+    }
+  ],
+  "messages": [
+    {
+      "id": 0,
+      "celContact1": 3195919929,
+      "nomContact1": "Esteban",
+      "celContact2": 3122902877,
+      "nomContact2": "Andrea"
+    },
+    {
+      "celContact1": 3145676372,
+      "nomContact1": "Patricia",
+      "celContact2": 3122902877,
+      "nomContact2": "Andrea",
+      "id": 1
+    },
+    {
+      "celContact1": 3195919929,
+      "nomContact1": "Esteban",
+      "celContact2": 3145676372,
+      "nomContact2": "Patricia",
+      "id": 2
+    },
+    {
+      "celContact1": 3195919929,
+      "nomContact1": "Esteban",
+      "celContact2": 3124903827,
+      "nomContact2": "Camilo",
+      "id": 3
+    },
+    {
+      "celContact1": 3122902877,
+      "nomContact1": "Andrea",
+      "celContact2": 3124903827,
+      "nomContact2": "Camilo",
+      "id": 4
+    }
+  ],
+  "Chats": [
+    {
+      "id": 0,
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "1/02/2023",
+      "hourSend": "2:00 pm",
+      "mensajeBody": "Hola mañana te veo",
+      "visto": true
+    },
+    {
+      "id": 1,
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "1/02/2023",
+      "hourSend": "2:04 pm",
+      "mensajeBody": "listo mañana nos vemos porque ya me dio flojera hoy",
+      "visto": true
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "5/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Bueno muchas gracias",
+      "visto": false,
+      "id": 2
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Oyer y te cuento porque no lo hicimos ",
+      "visto": false,
+      "id": 3
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Ayer el docente estaba muy dificil",
+      "visto": false,
+      "id": 4
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Porque no lo pudimos ver",
+      "visto": false,
+      "id": 5
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Espero que todo se encuentre super bien",
+      "visto": true,
+      "id": 6
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Claro que si todo va a estar bien ",
+      "visto": false,
+      "id": 7
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "definitivamente",
+      "visto": false,
+      "id": 8
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Espero que si ",
+      "visto": false,
+      "id": 9
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Porque no esta bien ",
+      "visto": false,
+      "id": 10
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Claro ",
+      "visto": false,
+      "id": 11
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Pero espera",
+      "visto": true,
+      "id": 12
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Ya los vi",
+      "visto": false,
+      "id": 13
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Seguro",
+      "visto": false,
+      "id": 14
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Claro esperame aca y los vuelvo a ver",
+      "visto": true,
+      "id": 15
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "2/6/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Si ya casi los veo",
+      "visto": false,
+      "id": 16
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "2/6/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "no te preocupes",
+      "visto": true,
+      "id": 17
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "Ya lo voy a revisar",
+      "visto": false,
+      "id": 18
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "para que llegues",
+      "visto": false,
+      "id": 19
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "claro que si ",
+      "visto": false,
+      "id": 20
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3122902877,
+      "dateSend": "6/2/2023",
+      "hourSend": "23:49",
+      "mensajeBody": "esperame porfa",
+      "visto": true,
+      "id": 21
+    },
+    {
+      "idconversation": 1,
+      "sendBy": 3145676372,
+      "dateSend": "6/2/2023",
+      "hourSend": "15:58",
+      "mensajeBody": "Hola",
+      "visto": false,
+      "id": 22
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "17:15",
+      "mensajeBody": "Hola andre esperame por favor",
+      "visto": false,
+      "id": 23
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "21:27",
+      "mensajeBody": "ya casi te marco para que estemos",
+      "visto": false,
+      "id": 25
+    },
+    {
+      "idconversation": 2,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "21:42",
+      "mensajeBody": "Hola",
+      "visto": false,
+      "id": 26
+    },
+    {
+      "idconversation": 2,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "21:59",
+      "mensajeBody": "patricia mañana nos vemos",
+      "visto": false,
+      "id": 27
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "22:13",
+      "mensajeBody": "Esperame",
+      "visto": true,
+      "id": 28
+    },
+    {
+      "idconversation": 2,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "22:20",
+      "mensajeBody": "vale ",
+      "visto": false,
+      "id": 29
+    },
+    {
+      "idconversation": 2,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "22:23",
+      "mensajeBody": "Tranquila",
+      "visto": false,
+      "id": 30
+    },
+    {
+      "idconversation": 2,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "22:23",
+      "mensajeBody": "Que ya lo encontramos",
+      "visto": false,
+      "id": 31
+    },
+    {
+      "idconversation": 2,
+      "sendBy": 3195919929,
+      "dateSend": "6/2/2023",
+      "hourSend": "22:26",
+      "mensajeBody": "Vale gracias ",
+      "visto": true,
+      "id": 32
+    },
+    {
+      "idconversation": 1,
+      "sendBy": 3145676372,
+      "dateSend": "6/2/2023",
+      "hourSend": "22:55",
+      "mensajeBody": "Hola andre contesta mis mensajes por favor",
+      "visto": true,
+      "id": 33
+    },
+    {
+      "idconversation": 1,
+      "sendBy": 3145676372,
+      "dateSend": "7/2/2023",
+      "hourSend": "0:8",
+      "mensajeBody": "ya voy andrea",
+      "visto": false,
+      "id": 34
+    },
+    {
+      "idconversation": 2,
+      "sendBy": 3145676372,
+      "dateSend": "7/2/2023",
+      "hourSend": "0:8",
+      "mensajeBody": "Responde por favor",
+      "visto": true,
+      "id": 35
+    },
+    {
+      "idconversation": 2,
+      "sendBy": 3195919929,
+      "dateSend": "7/2/2023",
+      "hourSend": "0:48",
+      "mensajeBody": "Ya voy de una ",
+      "visto": false,
+      "id": 36
+    },
+    {
+      "idconversation": 3,
+      "sendBy": 3195919929,
+      "dateSend": "7/2/2023",
+      "hourSend": "0:58",
+      "mensajeBody": "Hola",
+      "visto": false,
+      "id": 37
+    },
+    {
+      "idconversation": 3,
+      "sendBy": 3195919929,
+      "dateSend": "7/2/2023",
+      "hourSend": "1:2",
+      "mensajeBody": "camilo podrias ayudarme con una cuestión",
+      "visto": false,
+      "id": 38
+    },
+    {
+      "idconversation": 3,
+      "sendBy": 3195919929,
+      "dateSend": "7/2/2023",
+      "hourSend": "1:2",
+      "mensajeBody": "es que necesito un favor para ayudar a  andrea",
+      "visto": true,
+      "id": 39
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "7/2/2023",
+      "hourSend": "1:3",
+      "mensajeBody": "Ya le pregunte a camilo",
+      "visto": false,
+      "id": 40
+    },
+    {
+      "idconversation": 3,
+      "sendBy": 3124903827,
+      "dateSend": "7/2/2023",
+      "hourSend": "1:4",
+      "mensajeBody": "claro que si cuentame",
+      "visto": false,
+      "id": 41
+    },
+    {
+      "idconversation": 4,
+      "sendBy": 3122902877,
+      "dateSend": "7/2/2023",
+      "hourSend": "1:6",
+      "mensajeBody": "Hola",
+      "visto": false,
+      "id": 42
+    },
+    {
+      "idconversation": 4,
+      "sendBy": 3122902877,
+      "dateSend": "7/2/2023",
+      "hourSend": "1:7",
+      "mensajeBody": "camilo como te encuentras",
+      "visto": false,
+      "id": 43
+    },
+    {
+      "idconversation": 4,
+      "sendBy": 3122902877,
+      "dateSend": "7/2/2023",
+      "hourSend": "1:7",
+      "mensajeBody": "ya esteban te hablo para que nos ayudaras",
+      "visto": true,
+      "id": 44
+    },
+    {
+      "idconversation": 4,
+      "sendBy": 3124903827,
+      "dateSend": "7/2/2023",
+      "hourSend": "8:3",
+      "mensajeBody": "calro que si de una",
+      "visto": false,
+      "id": 45
+    },
+    {
+      "idconversation": 4,
+      "sendBy": 3124903827,
+      "dateSend": "7/2/2023",
+      "hourSend": "8:3",
+      "mensajeBody": "caundo necesitarias mi ayuda",
+      "visto": false,
+      "id": 46
+    },
+    {
+      "idconversation": 3,
+      "sendBy": 3124903827,
+      "dateSend": "7/2/2023",
+      "hourSend": "8:3",
+      "mensajeBody": "por favor ven cuando puedas",
+      "visto": false,
+      "id": 47
+    },
+    {
+      "idconversation": 4,
+      "sendBy": 3124903827,
+      "dateSend": "7/2/2023",
+      "hourSend": "11:36",
+      "mensajeBody": "Para mañana mismo necesito esto",
+      "visto": false,
+      "id": 48
+    },
+    {
+      "idconversation": 3,
+      "sendBy": 3124903827,
+      "dateSend": "7/2/2023",
+      "hourSend": "11:37",
+      "mensajeBody": "Y cuando me necesites me llamas por favor",
+      "visto": true,
+      "id": 49
+    },
+    {
+      "idconversation": 3,
+      "sendBy": 3124903827,
+      "dateSend": "7/2/2023",
+      "hourSend": "13:43",
+      "mensajeBody": "hola esteban aun nada ?",
+      "visto": true,
+      "id": 50
+    },
+    {
+      "idconversation": 3,
+      "sendBy": 3195919929,
+      "dateSend": "2/7/2023",
+      "hourSend": "13:44",
+      "mensajeBody": "Cami no definitivamente ni me va a dar el tiempo",
+      "visto": true,
+      "id": 51
+    },
+    {
+      "idconversation": 4,
+      "sendBy": 3124903827,
+      "dateSend": "7/2/2023",
+      "hourSend": "22:55",
+      "mensajeBody": "cuando necesite tengo",
+      "visto": true,
+      "id": 52
+    },
+    {
+      "idconversation": 0,
+      "sendBy": 3195919929,
+      "dateSend": "2/8/2023",
+      "hourSend": "10:34",
+      "mensajeBody": "Bueno definitivamente no ",
+      "visto": false,
+      "id": 53
+    }
+  ]
+}
